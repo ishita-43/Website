@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Splash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+*{
+    font-family: cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-palette: yellow green red;
+    color: rgb(49, 77, 147);
+}
+
+.projects{
+    display: flex;
+    /* background-color: black; */
+}
+
+.name{
+    height: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    font-size: xx-large;
+    margin-left: 50px;
+    font-weight: 400;
+    text-align: center;
+    background-color: rgba(113, 151, 104, 0.991);
+}
+
+
+
+
+.hello{
+    font-family: "Splash", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 20px;
+    color: rgb(235, 196, 242);
+}
+
+h2{
+    margin-top: -59px;
+    font-size: 60px;
+    color: rgb(22, 9, 19);
+}
+
+hr{
+   width: 150px;
+   margin-top: -40px;
+}
+
+h4{
+    font-family: cursive;
+    font-optical-sizing: auto;
+    font-size: 25px;
+    font-weight: 45;
+    font-style: normal;
+}
+
+h5{
+    font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-size: large;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(46, 194, 125);
+    margin-top: -6px;
+}
+
+.social{
+    margin-top: -35px;
+    display: inline-block;
+}
+
+
+.profile{
+    display: flex;
+    border-width: 2px white;
+    padding: 10px;
+    max-width: 300px;
+    max-height: 250px;
+}
+
+.home{
+    display: flex;
+    background-color: rgba(40, 214, 58, 0.918);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+p {
+    margin-left: 30px;
+    margin-right: 15px;
+    font-family: fantasy;
+    font-optical-sizing: auto;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.profile:hover {
+    box-shadow:  0 0 20px 1px rgba(147, 81, 139, 0.904);
+}
+
+.list{
+    /* display: flex; */
+    margin-top: 50px;
+    margin-left: -10px;
+    margin-right: 50px;
+    background-color: rgb(175, 239, 200);
+    color: black;
+    padding: 20px;
+
+}
+
+
+
+.skill{
+    margin-top: 97px;
+    margin-right: 10px;
+    width: 370px;
+    height: 270px;+
+    /* color: wheat; */
+    font-family: Impact;
+    font-size: 80px;
+    transform: rotate(-90deg);
+    background-color: rgb(128, 0, 32);
+}
+
+.project{
+    display: flex;
+    margin-top: 50px;
+    height: auto;
+    width: auto;
+    background-color: rgb(243, 220, 110);
+}
+
+.project1:link{
+    
+}
+
+.one{
+    
+}
